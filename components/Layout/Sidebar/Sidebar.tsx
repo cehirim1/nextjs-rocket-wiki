@@ -109,7 +109,7 @@ const Sidebar = ({ children }: { children: React.ReactNode }) => {
           </ul>
           <NotesCard label="Note" note="This app was made using NextJS 13" />
           <Link
-            href="https://github.com/JoyShaheb/nextjs-rocket-wiki"
+            href="https://github.com/cehirim1/nextjs-rocket-wiki"
             target="_blank"
             className="self-center mt-3"
             title="Github Repository"
